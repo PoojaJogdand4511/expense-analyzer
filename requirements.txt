@@ -4,3 +4,4 @@ plotly
 flask
 flask_cors
 matplotlib
+gunicorn
